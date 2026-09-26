@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Luis Sánchez - Analista de Sistemas | Desarrollador de Software" width="100%">
+<img src="./banner2.png" alt="Luis Sánchez - Analista de Sistemas | Desarrollador de Software" width="100%">
 
 </div>
 
